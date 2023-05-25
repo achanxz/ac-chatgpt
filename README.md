@@ -1,3 +1,6 @@
+Optimize the chatgpt project and its configuration: The goal of this project is to use the agent software XenoLink on the basis of chatgpt version 3.1. After downloading, you can use the following download address for XenoLink: https://xenolink.top/#/register?code=0KTZVwuX For the configuration of this project, only the port number and API key need to be configured in the config.py file. The API key needs to be extracted and registered on the openai official website, and a key needs to be created.
+
+
 
 
 # <img src="docs/logo.png" width="40" > ChatGPT 学术优化
